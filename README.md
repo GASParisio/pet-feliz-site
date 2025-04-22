@@ -28,7 +28,7 @@ Bem-vindo ao repositório do **Pet Feliz**, um projeto fictício desenvolvido pa
 
 Você pode acessar o site diretamente pelo GitHub Pages:
 
-👉 [Clique aqui para visitar o site](https://gabrielparisio.github.io/pet-feliz-site/)
+👉 [Clique aqui para visitar o site][https://gasparisio.github.io/pet-feliz-site/]
 
 (Substitua `seu-usuario` pelo seu nome de usuário do GitHub)
 
